@@ -1,3 +1,4 @@
+import 'package:first_module/ui/test_widget.dart';
 import 'package:flutter/material.dart';
 
 
@@ -25,7 +26,7 @@ class FirstModuleScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('First Module')),
-      body: const Center(child: Text('This is the First Module updated')),
+      body: const TestWidget(),
     );
   }
 }
