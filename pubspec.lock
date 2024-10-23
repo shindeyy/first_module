@@ -144,7 +144,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "0aeca0a4399edb04074454b483af402d0f2bebeb"
+      resolved-ref: "3d55d7788f8fb56956c91e816a4614000bc14bea"
       url: "https://github.com/shindeyy/network_module.git"
     source: git
     version: "1.0.0+1"
